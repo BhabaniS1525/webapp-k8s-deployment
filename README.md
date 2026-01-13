@@ -13,6 +13,8 @@ The application is fully containerized and can be deployed on:
 
 ## 🏗️ Architecture Overview
 
+![alt text](Images/diagram_2.drawio.png)
+
 ### Application Stack
 
 The VProfile application is a **multi-tier architecture** consisting of:

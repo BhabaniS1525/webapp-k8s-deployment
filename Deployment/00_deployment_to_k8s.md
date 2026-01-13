@@ -80,7 +80,7 @@ Define and manage application resources using YAML manifests:
 
 ### 🏗️ Architecture Overview
 
-> _(Insert Kubernetes architecture diagram here)_
+![alt text](../Images/diagram_2.drawio.png)
 
 ```xhg
 [ Users ]
